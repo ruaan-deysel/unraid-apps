@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Plugin>
+    <PluginURL>https://raw.githubusercontent.com/ruaan-deysel/unraid-management-agent/main/unraid-management-agent.plg</PluginURL>
+    <PluginAuthor>ruaan-deysel</PluginAuthor>
+    <Category>Tools:System</Category>
+    <Date>2026-03-18</Date>
+    <Name>Unraid Management Agent</Name>
+    <Description>
+        Monitor and control your Unraid system via REST API, WebSocket, MCP, Prometheus, and MQTT. Supports Docker/VM control, real-time metrics, Home Assistant integration, and AI agent tooling.
+    </Description>
+    <Requires>
+        **No external plugin dependencies** - All data is collected directly from system sources.
+    </Requires>
+    <MinVer>7.2.0</MinVer>
+    <Project>https://github.com/ruaan-deysel/unraid-management-agent</Project>
+    <Support>https://forums.unraid.net/topic/196675-plugin-unraid-management-agent</Support>
+    <Icon>https://raw.githubusercontent.com/ruaan-deysel/unraid-management-agent/main/icon.png</Icon>
+    <License>MIT License - Copyright 2026 Ruaan Deysel</License>
+</Plugin>
