@@ -3,7 +3,7 @@
     <Name>Vault</Name>
     <PluginURL>https://raw.githubusercontent.com/ruaan-deysel/vault/main/plugin/vault.plg</PluginURL>
     <PluginAuthor>Ruaan Deysel</PluginAuthor>
-    <Category>Tools:System:</Category>
+    <Category>Backup:</Category>
     <Description>
         Backup and restore plugin for Unraid. Back up and restore Docker containers (images, config, appdata) and virtual machines (live snapshots, cold backups) with full, incremental, and differential backup types. Supports local, SMB, NFS and SFTP storage destinations. Features job scheduling, retention policies, real-time progress monitoring, and a web-based management UI.
     </Description>
